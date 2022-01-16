@@ -10,3 +10,4 @@ Instructions:
 4. Open the instance directory and replace /patches/org.lwjgl3.json with the one from this repository
 5. Enjoy
 
+<img width="853" alt="Screenshot" src="Screenshot.png">
